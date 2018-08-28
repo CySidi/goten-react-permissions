@@ -1,0 +1,21 @@
+.exampleGotenPermissions {
+    text-align: center;
+}
+
+.title {
+    padding: 5%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.delete {
+    color: red;
+}
+
+.edit {
+    color: blue;
+}
+
+.add {
+    color: green;
+}
