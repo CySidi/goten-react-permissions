@@ -1,7 +1,7 @@
 {
   "name": "goten-react-permissions",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Goten package for render another components if them have permissions",
   "author": "Nicolas Meilan <sebastian.nicolas.meilan@gmail.com>",
   "main": "dist/index.js",
   "license": "ISC",
@@ -52,6 +52,7 @@
     "goten",
     "GotenJS",
     "gonten component",
-    "goten-react"
+    "goten-react",
+    "permissions"
   ]
 }

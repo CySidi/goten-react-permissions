@@ -31,3 +31,11 @@ export class GotenPermissionsValidator extends Component {
     }
 
 }
+
+GotenPermissionsProvider.propTypes = {
+    permissions: PropTypes.array.isRequired
+}
+
+GotenPermissionsValidator.propTypes = {
+    permission: PropTypes.string.isRequired
+}

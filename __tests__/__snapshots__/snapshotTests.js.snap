@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GotenPermissions snapshots not only GotenPermissionsValidator 1`] = `
+<div>
+  <div>
+    <div>
+      COMPONENT 1
+    </div>
+  </div>
+  <label>
+    Component without GotenPermissionsProvider 1
+  </label>
+  <div />
+  <div>
+    <div>
+      COMPONENT 3
+    </div>
+  </div>
+  <label>
+    Component without GotenPermissionsProvider 2
+  </label>
+</div>
+`;
+
+exports[`GotenPermissions snapshots with multiples permissions 1`] = `
+<div>
+  <div>
+    <div>
+      COMPONENT 1
+    </div>
+  </div>
+  <div>
+    <div>
+      COMPONENT 2
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GotenPermissions snapshots with multiples permissions but one component rejected 1`] = `
+<div>
+  <div>
+    <div>
+      COMPONENT 1
+    </div>
+  </div>
+  <div />
+  <div>
+    <div>
+      COMPONENT 3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GotenPermissions snapshots with permissions 1`] = `
+<div>
+  <div>
+    <div>
+      COMPONENT
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GotenPermissions snapshots with permissions and multiples components 1`] = `
+<div>
+  <div>
+    <div>
+      COMPONENT 1
+    </div>
+    <div>
+      COMPONENT 2
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GotenPermissions snapshots withOut permissions 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`GotenPermissions snapshots without GotenPermissionsValidator 1`] = `
+<div>
+  <label>
+    Component 1
+  </label>
+  <br />
+  <label>
+    Component 2
+  </label>
+</div>
+`;
